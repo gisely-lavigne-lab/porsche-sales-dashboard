@@ -23,14 +23,7 @@ Um dashboard executivo interativo de alta performance desenvolvido para análise
 * **Inter Font Family** para tipografia limpa e moderna.
 
 ## 🚀 Como Executar o Projeto
-
-Como o projeto foi construído puramente em Vanilla Architecture (Client-Side), não há necessidade de instalar dependências ou servidores pesados.
-
-1. Faça o clone ou baixe os arquivos deste repositório.
-2. Dê um duplo clique no arquivo `index.html`.
-3. O painel abrirá diretamente no seu navegador padrão pronto para uso.
-
+🔗 **Acesse o Dashboard Online:** [Clique aqui para visualizar o projeto]( https://gisely-lavigne-lab.github.io/porsche-sales-dashboard/)
 ---
 *Dashboard desenvolvido para fins de análise de performance comercial e portfólio executivo (2026).*
 
-🔗 **Acesse o Dashboard Online:** [Clique aqui para visualizar o projeto]( https://gisely-lavigne-lab.github.io/porsche-sales-dashboard/)
