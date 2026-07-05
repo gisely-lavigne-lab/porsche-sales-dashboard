@@ -32,3 +32,5 @@ Como o projeto foi construído puramente em Vanilla Architecture (Client-Side), 
 
 ---
 *Dashboard desenvolvido para fins de análise de performance comercial e portfólio executivo (2026).*
+
+🔗 **Acesse o Dashboard Online:** [Clique aqui para visualizar o projeto]( https://gisely-lavigne-lab.github.io/porsche-sales-dashboard/)
