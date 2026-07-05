@@ -23,6 +23,7 @@ Um dashboard executivo interativo de alta performance desenvolvido para análise
 * **Inter Font Family** para tipografia limpa e moderna.
 
 ## 🚀 Como Executar o Projeto
+
 🔗 **Acesse o Dashboard Online:** [Clique aqui para visualizar o projeto]( https://gisely-lavigne-lab.github.io/porsche-sales-dashboard/)
 ---
 *Dashboard desenvolvido para fins de análise de performance comercial e portfólio executivo (2026).*
